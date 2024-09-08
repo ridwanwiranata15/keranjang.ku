@@ -1,0 +1,47 @@
+.modal-add-transaksi{
+    position:fixed;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-color:rgb(0,0,0);
+    background-color:rgba(0,0,0,0.5);
+    display:none;
+}
+.modal-add-transaksi > .modal-add-transaksi-content{
+    background-color:white;
+    margin:100px;
+    padding:10px;
+}
+.modal-add-transaksi-header > span{
+    font-size:x-large;
+    font-weight:bolder;
+    cursor:pointer;
+}
+.modal-add-transaksi-header > span:hover{
+    color:red;
+}
+
+.modal-ubah-transaksi{
+    position:fixed;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-color:rgb(0,0,0);
+    background-color:rgba(0,0,0,0.5);
+    display:none;
+}
+.modal-ubah-transaksi > .modal-ubah-transaksi-content{
+    background-color:white;
+    margin:100px;
+    padding:10px;
+}
+.modal-ubah-transaksi-header > span{
+    font-size:x-large;
+    font-weight:bolder;
+    cursor:pointer;
+}
+.modal-ubah-transaksi-header > span:hover{
+    color:red;
+}

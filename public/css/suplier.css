@@ -1,0 +1,47 @@
+.modal-add-suplier{
+    position:fixed;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-color:rgb(0,0,0);
+    background-color:rgba(0,0,0,0.5);
+    display:none;
+}
+.modal-add-suplier > .modal-add-suplier-content{
+    background-color:white;
+    margin:100px;
+    padding:10px;
+}
+.modal-add-suplier-header > span{
+    font-size:x-large;
+    font-weight:bolder;
+    cursor:pointer;
+}
+.modal-add-suplier-header > span:hover{
+    color:red;
+}
+
+.modal-ubah-suplier{
+    position:fixed;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-color:rgb(0,0,0);
+    background-color:rgba(0,0,0,0.5);
+    display:none;
+}
+.modal-ubah-suplier > .modal-ubah-suplier-content{
+    background-color:white;
+    margin:100px;
+    padding:10px;
+}
+.modal-ubah-suplier-header > span{
+    font-size:x-large;
+    font-weight:bolder;
+    cursor:pointer;
+}
+.modal-ubah-suplier-header > span:hover{
+    color:red;
+}
